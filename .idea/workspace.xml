@@ -53,11 +53,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CheckPoint1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CheckPoint1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4104">
-              <caret line="212" column="54" selection-start-line="212" selection-start-column="54" selection-end-line="212" selection-end-column="54" />
+            <state relative-caret-position="498">
+              <caret line="530" column="1" selection-start-line="530" selection-start-column="1" selection-end-line="530" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -66,8 +66,8 @@
       <file leaf-file-name="CheckPoint2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4475">
-              <caret line="258" column="55" selection-start-line="258" selection-start-column="55" selection-end-line="258" selection-end-column="55" />
+            <state relative-caret-position="288">
+              <caret line="487" column="41" selection-start-line="487" selection-start-column="41" selection-end-line="487" selection-end-column="41" />
               <folding />
             </state>
           </provider>
@@ -76,8 +76,8 @@
       <file leaf-file-name="CheckPoint3.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5424">
-              <caret line="267" column="57" selection-start-line="267" selection-start-column="57" selection-end-line="267" selection-end-column="57" />
+            <state relative-caret-position="363">
+              <caret line="488" column="50" selection-start-line="488" selection-start-column="50" selection-end-line="488" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -119,7 +119,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ic_launcher.png" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ic_launcher.png" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
           <provider selected="true" editor-type-id="images">
             <state />
@@ -1910,13 +1910,13 @@
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/DK.java" />
         <option value="$PROJECT_DIR$/gradle.properties" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint1.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint2.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint3.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/Goal.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/goal.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint3.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint1.java" />
       </list>
     </option>
   </component>
@@ -2385,7 +2385,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="1" width="1725" height="1084" extended-state="1" />
+    <frame x="50" y="1" width="1725" height="1084" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32830188" sideWeight="0.49051988" order="6" side_tool="false" content_ui="tabs" />
@@ -2401,7 +2401,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30812642" sideWeight="0.34141904" order="11" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19769557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19769557" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.059613317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24954128" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.042895444" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
@@ -2701,22 +2701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5424">
-          <caret line="267" column="57" selection-start-line="267" selection-start-column="57" selection-end-line="267" selection-end-column="57" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4104">
-          <caret line="212" column="54" selection-start-line="212" selection-start-column="54" selection-end-line="212" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/Goal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1704">
@@ -2755,17 +2739,33 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint2.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4475">
-          <caret line="258" column="55" selection-start-line="258" selection-start-column="55" selection-end-line="258" selection-end-column="55" />
+        <state relative-caret-position="363">
+          <caret line="488" column="50" selection-start-line="488" selection-start-column="50" selection-end-line="488" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="487" column="41" selection-start-line="487" selection-start-column="41" selection-end-line="487" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/user/tdbs/CheckPoint1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="498">
+          <caret line="530" column="1" selection-start-line="530" selection-start-column="1" selection-end-line="530" selection-end-column="1" />
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
