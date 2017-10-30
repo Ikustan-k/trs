@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\1503294\Desktop\TDBS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da0867d5c0d16d866067172132ba0d4b6829d05e">
+        <dex dex="C:\Users\1503294\Desktop\TDBS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_966f19f3c50607d39a165d56f2146a73575e9360\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\1503294\Desktop\TDBS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\1503294\Desktop\TDBS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_79196f2a5f932357cfa2adc6bcb11d18d7d1733b\classes.dex" />
+    </item>
+
+</items>
